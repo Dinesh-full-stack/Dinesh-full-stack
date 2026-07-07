@@ -17,24 +17,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=2&section=header" width="100%"/>
 
-## &nbsp;🪐&nbsp; About Me
-
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+## <img src="https://api.iconify.design/tabler:user.svg?color=%23A78BFA&width=22" valign="middle"/>&nbsp; About Me
 
 I'm a **Full Stack Developer** with 4+ years of experience designing, building, and deploying production-grade web platforms — from responsive React/Next.js frontends to secure Node.js/Express backends and GenAI-powered automation layers.
 
 I care about **clean architecture, thoughtful UX, and systems that scale** — not just features that ship. Currently focused on integrating LLM agents (LangChain / LangGraph) into real enterprise workflows.
 
-- 🏢 Working as a **Full Stack Developer** at **NeuralNet Data Science**
-- 🧠 Exploring **agentic AI systems** and **RAG pipelines**
-- ⚡ Comfortable owning a feature end-to-end — architecture → API → UI → deployment
-- 🎯 Actively open to **Senior Full Stack / Product Engineer** roles
-
-<br clear="right"/>
+- Working as a **Full Stack Developer** at **NeuralNet Data Science**
+- Exploring **agentic AI systems** and **RAG pipelines**
+- Comfortable owning a feature end-to-end — architecture → API → UI → deployment
+- Actively open to **Senior Full Stack / Product Engineer** roles
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=2&section=header" width="100%"/>
 
-## &nbsp;🧬&nbsp; Tech Stack
+## <img src="https://api.iconify.design/tabler:stack-2.svg?color=%23A78BFA&width=22" valign="middle"/>&nbsp; Tech Stack
 
 <div align="center">
 
@@ -84,51 +80,51 @@ I care about **clean architecture, thoughtful UX, and systems that scale** — n
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=2&section=header" width="100%"/>
 
-## &nbsp;🛰️&nbsp; Featured Work
+## <img src="https://api.iconify.design/tabler:briefcase.svg?color=%23A78BFA&width=22" valign="middle"/>&nbsp; Featured Work
 *(Built during my role at NeuralNet Data Science — source hosted under my employer's GitHub organization, not shown as personal repos)*
 
 <table>
 <tr>
 <td width="50%">
 
-### 🗂️ Leave Management System
+### Leave Management System
 Production-deployed enterprise LMS with multi-level approval workflows, RBAC, and real-time status via SSE.
 
 `React` `Node.js` `PostgreSQL` `Docker` `JWT`
 
-**Status:** 🟢 Production
+**Status:** Production
 
 </td>
 <td width="50%">
 
-### 🤖 AI Multi-Agent Automation Platform
+### AI Multi-Agent Automation Platform
 LangChain/LangGraph-powered agents automating validation, translation, and QA workflows.
 
 `Python` `LangGraph` `OpenAI` `PostgreSQL`
 
-**Status:** 🟢 Production
+**Status:** Production
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 Enterprise Analytics Platform
+### Enterprise Analytics Platform
 Real-time analytics dashboards with WebSockets and optimized MongoDB aggregation pipelines.
 
 `Next.js` `Node.js` `MongoDB` `WebSockets`
 
-**Status:** 🟢 Production
+**Status:** Production
 
 </td>
 <td width="50%">
 
-### 🗺️ Crosstab Analysis & Research Platform
+### Crosstab Analysis & Research Platform
 Data analysis tooling with Google Maps integration and secure role-based reporting.
 
 `React` `Node.js` `MongoDB` `Google Maps API`
 
-**Status:** 🟢 Production
+**Status:** Production
 
 </td>
 </tr>
@@ -136,7 +132,7 @@ Data analysis tooling with Google Maps integration and secure role-based reporti
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=2&section=header" width="100%"/>
 
-## &nbsp;🧭&nbsp; Experience Timeline
+## <img src="https://api.iconify.design/tabler:timeline.svg?color=%23A78BFA&width=22" valign="middle"/>&nbsp; Experience Timeline
 
 ```
 2022 ─ Present   Full Stack Developer @ NeuralNet Data Science
@@ -150,7 +146,7 @@ Data analysis tooling with Google Maps integration and secure role-based reporti
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=2&section=header" width="100%"/>
 
-## &nbsp;📈&nbsp; GitHub Analytics
+## <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%23A78BFA&width=22" valign="middle"/>&nbsp; GitHub Analytics
 
 <div align="center">
 
@@ -163,7 +159,7 @@ Data analysis tooling with Google Maps integration and secure role-based reporti
 
 </div>
 
-## &nbsp;🏆&nbsp; Achievements
+## <img src="https://api.iconify.design/tabler:trophy.svg?color=%23A78BFA&width=22" valign="middle"/>&nbsp; Achievements
 
 <div align="center">
 
@@ -173,7 +169,7 @@ Data analysis tooling with Google Maps integration and secure role-based reporti
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=2&section=header" width="100%"/>
 
-## &nbsp;📡&nbsp; Let's Connect
+## <img src="https://api.iconify.design/tabler:send.svg?color=%23A78BFA&width=22" valign="middle"/>&nbsp; Let's Connect
 
 <div align="center">
 
