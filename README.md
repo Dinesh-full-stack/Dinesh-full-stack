@@ -54,7 +54,6 @@ I care about **clean architecture, thoughtful UX, and systems that scale** — n
 ![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=A78BFA)
 ![PHP](https://img.shields.io/badge/PHP-6D28D9?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-3B82F6?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-22D3EE?style=for-the-badge&logo=fastapi&logoColor=0D1117)
 
 **Databases**
